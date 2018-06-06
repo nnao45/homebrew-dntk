@@ -4,7 +4,7 @@ class Dntk < Formula
   desc "Command line's Interactive calculator, GNU bc wrapper."
   homepage "https://github.com/nnao45/dntk"
   url "https://github.com/nnao45/dntk/archive/v1.0.5.tar.gz"
-  sha256 "890f4cd3c04e5271b844f153874872916207cd377ccf7c69de4b83fcaef8b29d"
+  sha256 "99fb8ce015e889c38db8ca2a8d4474a7e326b1d80e587a5c0e033afbf3d2e413"
   head "https://github.com/nnao45/dntk.git"
   version "v1.0.5"
 
