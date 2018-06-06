@@ -1,6 +1,6 @@
 require "formula"
 
-class Pexpo < Formula
+class Dntk < Formula
   desc "Command line's Interactive calculator, GNU bc wrapper."
   homepage "https://github.com/nnao45/dntk"
   url "https://github.com/nnao45/pexpo/archive/v1.0.5.tar.gz"
