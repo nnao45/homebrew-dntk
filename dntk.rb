@@ -1,7 +1,7 @@
 require "formula"
 
 class Pexpo < Formula
-  desc "Terminal sending ping tool written in Go."
+  desc "Command line's Interactive calculator, GNU bc wrapper."
   homepage "https://github.com/nnao45/dntk"
   url "https://github.com/nnao45/pexpo/archive/v1.0.5.tar.gz"
   sha256 "890f4cd3c04e5271b844f153874872916207cd377ccf7c69de4b83fcaef8b29d"
