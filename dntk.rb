@@ -9,7 +9,6 @@ class Dntk < Formula
   version "v1.0.7"
 
   depends_on "go" => :build
-  depends_on "glide" => :build
   
   def install
     ENV["GOPATH"] = buildpath
