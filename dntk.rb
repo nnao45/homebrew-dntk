@@ -3,10 +3,10 @@ require "formula"
 class Dntk < Formula
   desc "Command line's Interactive calculator, GNU bc wrapper."
   homepage "https://github.com/nnao45/dntk"
-  url "https://github.com/nnao45/dntk/archive/v2.1.2.tar.gz"
-  sha256 "e8d3e45198864cb8b0debe0433c1a6988791ed3ff376afae9a2ff0300fa5eb8c"
+  url "https://github.com/nnao45/dntk/archive/v2.1.3.tar.gz"
+  sha256 "32941849f3bcb9bae22595c82e7b9153f21fc485438f84a3e8304c71d5acce25"
   head "https://github.com/nnao45/dntk.git"
-  version "v2.1.2"
+  version "v2.1.3"
 
   depends_on "rust" => :build
 
