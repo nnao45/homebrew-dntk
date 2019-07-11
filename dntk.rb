@@ -19,4 +19,3 @@ class Dntk < Formula
     system "dntk", "--version"
   end
 end
-db
